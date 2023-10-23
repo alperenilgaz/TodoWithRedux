@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+![Ekran görüntüsü 2023-10-23 111255](https://github.com/alperenilgaz/TodoWithRedux/assets/97908293/d41a0ba8-d7ef-49c2-a7ea-87e940edc16d)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
